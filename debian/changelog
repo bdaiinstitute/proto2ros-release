@@ -1,0 +1,9 @@
+ros-humble-proto2ros-tests (1.0.0-1jammy) jammy; urgency=high
+
+  * Please pre-commit linters (#2 <https://github.com/bdaiinstitute/proto2ros/issues/2>)
+  * Bring sources from bdaiinstitute/ros_utilities (#1 <https://github.com/bdaiinstitute/proto2ros/issues/1>)
+  * Contributors: mhidalgo-bdai
+
+ -- Boston Dynamics AI Institute <opensource@theaiinstitute.com>  Mon, 02 Dec 2024 00:00:00 -0000
+
+
